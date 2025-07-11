@@ -22,21 +22,14 @@
 
 
 
-**HOMEPAGE**
+ HOMEPAGE
+![Home Page](./images/SShome.png)
 
-**!\[Home Page](images/SShome.png)**
+ SERVICES PAGE
+![Services Page](./images/SSservices.png)
 
-
-
-**SERVICES PAGE**
-
-**!\[Services Page](images/SSservices.png)**
-
-
-
-**CONTACT US PAGE**
-
-**!\[Contactus Page](images/SScontactus.png)**
+ CONTACT US PAGE
+![Contact Us Page](./images/SScontactus.png)
 
 
 
